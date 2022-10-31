@@ -1,7 +1,4 @@
 
-![React Avançado](https://raw.githubusercontent.com/React-Avancado/boilerplate/master/public/img/logo-gh.svg)
-
-
 ## What is inside?
 
 This project uses lot of stuff as:
